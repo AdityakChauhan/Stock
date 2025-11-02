@@ -1,0 +1,10 @@
+requests
+pandas
+tqdm
+transformers
+torch
+numpy
+python-dateutil
+yfinance
+joblib
+dotenv
